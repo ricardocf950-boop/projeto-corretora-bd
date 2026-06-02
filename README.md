@@ -7,7 +7,7 @@ Este repositório contém o projeto de desenvolvimento do banco de dados relacio
 * **Samuel**
 
 ## 📐 Modelo Conceitual
-O Diagrama Entidade-Relacionamento (DER) foi desenhado seguindo a notação conceitual clássica (padrão de cardinalidades por limites mínimos e máximos). A imagem do diagrama encontra-se na pasta `/diagrama`.
+O Diagrama Entidade-Relacionamento (DER) foi desenhado seguindo a notação conceitual clássica (padrão de cardinalidades por limites mínimos e máximos).
 
 ## 🚀 Como Executar o Projeto
 Os scripts SQL foram totalmente desenvolvidos e testados utilizando o **PostgreSQL**.
